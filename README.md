@@ -1,6 +1,6 @@
 # Post Comment React App
 
-Este repositório contém um aplicativo React simples de comentário de post. O objetivo principal e aprender a ultilizar o git e suas branch.
+Este repositório contém um aplicativo React simples de comentário de post .O objetivo principal e aprender a ultilizar o git e suas branch.
 
 ### Pré-requisitos
 
